@@ -12,8 +12,8 @@
 - 🎯 Target : On mobile, when I select the hamburger menu, I can see a navigation
 
 ### Extra:
-🌟 Extra : Background blur tips: backdrop-filter: blur();
-🌟 Extra : Animation, hover animation
+- 🌟 Extra : Background blur tips: backdrop-filter: blur();
+- 🌟 Extra : Animation, hover animation
 
 # Start Coding!
 **If you are ready to take on the challenge, then**
