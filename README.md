@@ -7,9 +7,9 @@
 
 ### Target:
 
--🎯 Target : User can see the similar design
--🎯 Target : Responsive design
--🎯 Target : On mobile, when I select the hamburger menu, I can see a navigation
+- 🎯 Target : User can see the similar design
+- 🎯 Target : Responsive design
+- 🎯 Target : On mobile, when I select the hamburger menu, I can see a navigation
 
 ### Extra:
 🌟 Extra : Background blur tips: backdrop-filter: blur();
